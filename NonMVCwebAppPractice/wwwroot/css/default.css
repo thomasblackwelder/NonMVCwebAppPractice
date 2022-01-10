@@ -1,0 +1,14 @@
+﻿body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+label{
+    font-size: 20px;
+    color: darkgoldenrod;
+    width: 150px;
+    display: inline-block;
+}
+
+textarea{
+    font-size: 30px;
+}
